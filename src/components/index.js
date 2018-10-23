@@ -1,0 +1,1 @@
+export SilderBar from './sliderBar'
