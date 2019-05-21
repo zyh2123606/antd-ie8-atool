@@ -55,7 +55,6 @@ class HttpBase {
             }
             Message.warning(err.message)
         })
-        //super(base_url)
     }
     /**
      * get 请求
